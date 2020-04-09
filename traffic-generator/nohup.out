@@ -1,0 +1,20 @@
+[2020-02-28 10:25:10,191] jumper/INFO/locust.main: Starting web monitor at *:8089
+[2020-02-28 10:25:10,191] jumper/INFO/locust.main: Starting Locust 0.11.0
+Forwarding from 0.0.0.0:8080 -> 80
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+[2020-02-28 15:40:30,072] jumper/INFO/locust.main: Got SIGTERM signal
+[2020-02-28 15:40:30,074] jumper/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-28 15:40:30,074] jumper/INFO/locust.main: Cleaning up runner...
+[2020-02-28 15:40:30,075] jumper/INFO/locust.main: Running teardowns...
+ Name                                                          # reqs      # fails     Avg     Min     Max  |  Median   req/s
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Total                                                              0     0(0.00%)                                       0.00
+
+Percentage of the requests completed within given times
+ Name                                                           # reqs    50%    66%    75%    80%    90%    95%    98%    99%   100%
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+
